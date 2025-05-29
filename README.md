@@ -33,8 +33,8 @@ projeto_fashion_mnist_api/
 
 ```bash
 # Clonar projeto
-git clone https://github.com/seu-usuario/fashion-mnist-api.git
-cd fashion-mnist-api
+git clone github.com/marchiorog/projeto_fashion_mnist_api
+cd projeto_fashion_mnist_api
 
 # Ambiente virtual
 python -m venv venv
