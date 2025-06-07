@@ -1,6 +1,6 @@
 # 🧠 Fashion MNIST Image Classifier API
 
-Uma API simples em Flask para classificar imagens em tons de cinza 28x28 utilizando um modelo treinado no dataset Fashion MNIST com TensorFlow.
+Uma API em Flask para classificar imagens em tons de cinza 28x28 utilizando um modelo treinado no dataset Fashion MNIST com TensorFlow.
 
 ---
 
