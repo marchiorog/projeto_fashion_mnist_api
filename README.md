@@ -18,13 +18,13 @@ Uma API em Flask para classificar imagens em tons de cinza 28x28 utilizando um m
 
 ```
 projeto_fashion_mnist_api/
-├── app.py                         # API Flask principal
-├── fashion_mnist_cnn_model.keras # Modelo treinado (formato .keras)
-├── requirements.txt              # Dependências do projeto
-├── .gitignore                    # Ignora o venv e arquivos desnecessários
-└── README.md                     # Este arquivo
+├── .gitignore                        # Ignora o venv e arquivos desnecessários
+├── Projeto1VisãoComputacional.ipynb  # Modelo construído
+├── README.md                         # Este arquivo
+├── app.py                            # API Flask principal
+├── fashion_mnist_cnn_model.keras     # Modelo treinado (formato .keras)
+└── requirements.txt                  # Dependências do projeto
 ```
-
 
 ---
 
